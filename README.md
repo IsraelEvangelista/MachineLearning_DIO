@@ -19,4 +19,4 @@ ________________________________________________________________________________
 ## Guia rápido de projetos 
 
 Projeto 1
-[Projeto de Transfer Learning em Python]()
+[Projeto de Transfer Learning em Python](https://github.com/IsraelEvangelista/MachineLearning_DIO/tree/main/Projeto%201%20-%20Transfer%20Learning)
