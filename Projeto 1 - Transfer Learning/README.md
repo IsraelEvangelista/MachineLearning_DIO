@@ -22,3 +22,7 @@ As imagens foram selecionadas à partir https://www.kaggle.com/datasets/alxmamae
 ## Visualizando uma da pasta de treinamento Margarida
 
 ![image](https://user-images.githubusercontent.com/116984176/230250562-5c514027-e137-44cc-a012-27d4566a9d0e.png)
+
+Link para Notebook de Transfer Learning:
+
+[Transfer Learning](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%201%20-%20Transfer%20Learning/Transfer_learning.ipynb)
