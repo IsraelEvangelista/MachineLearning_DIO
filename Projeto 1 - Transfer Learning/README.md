@@ -15,11 +15,11 @@ Para o Teste (validação) foram separadas 202 imagens dividas entre rosas (101)
 
 As imagens foram selecionadas à partir https://www.kaggle.com/datasets/alxmamaev/flowers-recognition.
 
-## Visualizando uma da pasta de treinamento Rosa
+## Visualizando uma das pastas de treinamento "Rosa"
 
 ![image](https://user-images.githubusercontent.com/116984176/230250510-a16f4bf3-c060-4430-b9c3-29eded4ce7fc.png)
 
-## Visualizando uma da pasta de treinamento Margarida
+## Visualizando uma das pastas de treinamento "Margarida"
 
 ![image](https://user-images.githubusercontent.com/116984176/230250562-5c514027-e137-44cc-a012-27d4566a9d0e.png)
 
