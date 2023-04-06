@@ -20,3 +20,6 @@ ________________________________________________________________________________
 
 Projeto 1
 [Projeto de Transfer Learning em Python](https://github.com/IsraelEvangelista/MachineLearning_DIO/tree/main/Projeto%201%20-%20Transfer%20Learning)
+
+Projeto 2
+[Projeto de Redução de Dimensionalidade](https://github.com/IsraelEvangelista/MachineLearning_DIO/tree/main/Projeto%202%20-%20Redu%C3%A7%C3%A3o%20de%20Dimensionalidade)
