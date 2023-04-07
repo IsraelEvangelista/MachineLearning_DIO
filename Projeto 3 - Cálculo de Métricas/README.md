@@ -14,4 +14,4 @@ ________________________________________________________________________________
 
 ### Link para Notebook de Cálculo de Métricas:
 
-[Cálculo de Métricas]()
+[Cálculo de Métricas](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%203%20-%20C%C3%A1lculo%20de%20M%C3%A9tricas/Confusion_Matrix.ipynb)
