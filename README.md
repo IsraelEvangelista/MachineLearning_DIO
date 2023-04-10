@@ -23,3 +23,6 @@ Projeto 1
 
 Projeto 2
 [Projeto de Redução de Dimensionalidade](https://github.com/IsraelEvangelista/MachineLearning_DIO/tree/main/Projeto%202%20-%20Redu%C3%A7%C3%A3o%20de%20Dimensionalidade)
+
+Projeto 3
+[Projeto de Cálculo de Métricas](https://github.com/IsraelEvangelista/MachineLearning_DIO/tree/main/Projeto%203%20-%20C%C3%A1lculo%20de%20M%C3%A9tricas)
