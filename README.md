@@ -26,3 +26,6 @@ Projeto 2
 
 Projeto 3
 [Projeto de Cálculo de Métricas](https://github.com/IsraelEvangelista/MachineLearning_DIO/tree/main/Projeto%203%20-%20C%C3%A1lculo%20de%20M%C3%A9tricas)
+
+Projeto 4
+[Treinamento da Rede YOLO](https://github.com/IsraelEvangelista/MachineLearning_DIO/tree/main/Projeto%204%20-%20Treinamento%20da%20Rede%20YOLO)
