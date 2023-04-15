@@ -21,4 +21,4 @@ ________________________________________________________________________________
 
 ### Link para Notebook de Cálculo de Métricas:
 
-[Cálculo de Métricas](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%204%20-%20Treinamento%20da%20Rede%20YOLO/Treinamento_da_Rede_YOLO.ipynb)
+[Treinamento Rede YOLO](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%204%20-%20Treinamento%20da%20Rede%20YOLO/Treinamento_da_Rede_YOLO.ipynb)
