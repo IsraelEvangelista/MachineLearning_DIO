@@ -29,3 +29,6 @@ Projeto 3
 
 Projeto 4
 [Treinamento da Rede YOLO](https://github.com/IsraelEvangelista/MachineLearning_DIO/tree/main/Projeto%204%20-%20Treinamento%20da%20Rede%20YOLO)
+
+Projeto 5
+[Reconhecimento Facial](https://github.com/IsraelEvangelista/MachineLearning_DIO/tree/main/Projeto%205%20-%20Reconhecimento%20Facial)
