@@ -27,4 +27,4 @@ ________________________________________________________________________________
 
 ### Link para Notebook de Cálculo de Métricas:
 
-[Reconhecimento Facial]()
+[Reconhecimento Facial](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%205%20-%20Reconhecimento%20Facial/Reconhecimento_Facial.ipynb)
