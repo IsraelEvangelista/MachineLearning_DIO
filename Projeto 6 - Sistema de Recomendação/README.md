@@ -19,8 +19,15 @@ O banco de dados utilizado foi [Fashion Product Images (Small)](https://www.kagg
 
 As iamgens utilizadas para o teste de recomendação foram:
 
+[Blusa Lilica](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%206%20-%20Sistema%20de%20Recomenda%C3%A7%C3%A3o/Blusa%20Lilica_Amazon.jpg?raw=true)
+
+[Blusa Masculina](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%206%20-%20Sistema%20de%20Recomenda%C3%A7%C3%A3o/Blusa%20Masculina_Amazon.jpg?raw=true)
+
+[Bolsa](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%206%20-%20Sistema%20de%20Recomenda%C3%A7%C3%A3o/Bolsa_Amazon.jpg?raw=true)
+
+[Calça](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%206%20-%20Sistema%20de%20Recomenda%C3%A7%C3%A3o/Cal%C3%A7a_Amazon.jpg?raw=true)
 ____________________________________________________________________________________________________________________________________________________________________
 
 ### Link para Notebook de Cálculo de Métricas:
 
-[Sistema de Recomendação]()
+[Sistema de Recomendação](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%206%20-%20Sistema%20de%20Recomenda%C3%A7%C3%A3o/Sistema_de_Recomenda%C3%A7%C3%A3o.ipynb)
