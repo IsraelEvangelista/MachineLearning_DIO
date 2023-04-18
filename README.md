@@ -32,3 +32,6 @@ Projeto 4
 
 Projeto 5
 [Reconhecimento Facial](https://github.com/IsraelEvangelista/MachineLearning_DIO/tree/main/Projeto%205%20-%20Reconhecimento%20Facial)
+
+Projeto 6
+[Sistema de Recomendação](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%206%20-%20Sistema%20de%20Recomenda%C3%A7%C3%A3o/README.md)
