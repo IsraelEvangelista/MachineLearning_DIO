@@ -25,4 +25,4 @@ ________________________________________________________________________________
 
 ### Link para Código de Sistema de Assistência Virtual:
 
-[Assistênte Virtual]()
+[Assistênte Virtual](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%207%20-%20Assistente%20Virtual/Assistente_Virtual.py)
