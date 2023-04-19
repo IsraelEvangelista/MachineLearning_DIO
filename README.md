@@ -35,3 +35,6 @@ Projeto 5
 
 Projeto 6
 [Sistema de Recomendação](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%206%20-%20Sistema%20de%20Recomenda%C3%A7%C3%A3o/README.md)
+
+Projeto 7
+[Sistema de Assistente Virtual](https://github.com/IsraelEvangelista/MachineLearning_DIO/blob/main/Projeto%207%20-%20Assistente%20Virtual/README.md)
